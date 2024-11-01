@@ -1,0 +1,355 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019 vedathemes
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <contact@vedathemes.com>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simplified Font Manager 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-12 12:50+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: backend/class-backend.php:278
+msgid "Create a new Adobe ID or Sign In with your existing ID at"
+msgstr ""
+
+#: backend/class-backend.php:278
+msgid "Adobe Fonts"
+msgstr ""
+
+#: backend/class-backend.php:279
+msgid "Search or Browse "
+msgstr ""
+
+#: backend/class-backend.php:279
+msgid "Adobe Fonts."
+msgstr ""
+
+#: backend/class-backend.php:279
+msgid "Click on \"</>\" icon to add fonts to your existing or new web project."
+msgstr ""
+
+#: backend/class-backend.php:280
+msgid "Go to your"
+msgstr ""
+
+#: backend/class-backend.php:280
+msgid "Web Projects"
+msgstr ""
+
+#: backend/class-backend.php:280
+msgid ""
+". Find and Copy \"Project ID\", which can be found next to the Project name."
+msgstr ""
+
+#: backend/class-backend.php:281
+msgid "Paste Project ID here ( in the field below ) and hit arrow icon"
+msgstr ""
+
+#: backend/class-backend.php:285
+msgid "Font Manager"
+msgstr ""
+
+#: backend/class-backend.php:286
+msgid "Font Control"
+msgstr ""
+
+#: backend/class-backend.php:287
+msgid "Avdanced Options"
+msgstr ""
+
+#: backend/class-backend.php:288
+msgid "Create Font Control"
+msgstr ""
+
+#: backend/class-backend.php:289
+msgid "Sorry! Font not available."
+msgstr ""
+
+#: backend/class-backend.php:291
+msgid "Select a Font"
+msgstr ""
+
+#: backend/class-backend.php:292
+msgid "Search Font"
+msgstr ""
+
+#: backend/class-backend.php:293
+msgid "Filter Font Categories"
+msgstr ""
+
+#: backend/class-backend.php:294
+msgctxt "Placeholder text for css selectors"
+msgid "Type target elements here, e.g., body, h1, .site-title, #main"
+msgstr ""
+
+#: backend/class-backend.php:295
+msgid "Comma separated css selectors."
+msgstr ""
+
+#: backend/class-backend.php:296
+msgid "Add Font Weights"
+msgstr ""
+
+#: backend/class-backend.php:297
+msgid "Delete control"
+msgstr ""
+
+#: backend/class-backend.php:298
+msgid "Advanced Font settings"
+msgstr ""
+
+#: backend/class-backend.php:299
+msgctxt "Font optgroup label attribute"
+msgid "Google Fonts"
+msgstr ""
+
+#: backend/class-backend.php:300
+msgctxt "Placeholder text for css selectors"
+msgid "example: .site-title, #main"
+msgstr ""
+
+#: backend/class-backend.php:301
+msgid "Font size"
+msgstr ""
+
+#: backend/class-backend.php:302
+msgid "Font Weight"
+msgstr ""
+
+#: backend/class-backend.php:303
+msgid "Font Style"
+msgstr ""
+
+#: backend/class-backend.php:304
+msgid "Text Transform"
+msgstr ""
+
+#: backend/class-backend.php:305
+msgid "Line Height"
+msgstr ""
+
+#: backend/class-backend.php:306
+msgid "Letter Spacing"
+msgstr ""
+
+#: backend/class-backend.php:307
+msgid "Enforce Styling"
+msgstr ""
+
+#: backend/class-backend.php:308
+msgid "Temporarily Highlight Elements"
+msgstr ""
+
+#: backend/class-backend.php:309
+msgid "Show desktop font-size"
+msgstr ""
+
+#: backend/class-backend.php:310
+msgid "Show tablet font-size"
+msgstr ""
+
+#: backend/class-backend.php:311
+msgid "Show mobile font-size"
+msgstr ""
+
+#: backend/class-backend.php:312
+msgid "Font List"
+msgstr ""
+
+#: backend/class-backend.php:313
+msgid "Next Font"
+msgstr ""
+
+#: backend/class-backend.php:314
+msgid "Previous Font"
+msgstr ""
+
+#: backend/class-backend.php:315
+msgid "Add Font"
+msgstr ""
+
+#: backend/class-backend.php:316
+msgid "Select one or more font weights."
+msgstr ""
+
+#: backend/class-backend.php:317
+msgid "Add italic font style (if any)."
+msgstr ""
+
+#: backend/class-backend.php:318
+msgid "Font stack"
+msgstr ""
+
+#: backend/class-backend.php:321
+msgid "Plugin Advanced Options"
+msgstr ""
+
+#: backend/class-backend.php:322
+msgid "Reset to theme defaults"
+msgstr ""
+
+#: backend/class-backend.php:323
+msgid "Add Adobe Fonts (Typekit)"
+msgstr ""
+
+#: backend/class-backend.php:324
+msgid "Enter Project ID"
+msgstr ""
+
+#: backend/class-backend.php:325
+msgid "Submit Adobe Fonts Project ID"
+msgstr ""
+
+#: backend/class-backend.php:326
+msgid "Fetching..."
+msgstr ""
+
+#: backend/class-backend.php:327
+msgid "Please Enter Project ID"
+msgstr ""
+
+#: backend/class-backend.php:328
+msgid "Fonts Deleted Successfully"
+msgstr ""
+
+#: backend/class-backend.php:329
+msgid "Fonts Added Successfully"
+msgstr ""
+
+#: backend/class-backend.php:330
+msgid "Fonts could not be added. Please check Project ID"
+msgstr ""
+
+#: backend/class-backend.php:331
+msgid "Enter Adobe Font's Project ID"
+msgstr ""
+
+#: backend/class-backend.php:337
+msgid "Close"
+msgstr ""
+
+#: backend/class-backend.php:344
+msgid "Adobe Fonts (typekit)"
+msgstr ""
+
+#: backend/class-backend.php:346
+msgid "All Adobe Fonts"
+msgstr ""
+
+#: backend/class-backend.php:350
+msgid "Google Fonts"
+msgstr ""
+
+#: backend/class-backend.php:352 backend/class-backend.php:362
+msgid "Sans-Serif"
+msgstr ""
+
+#: backend/class-backend.php:353 backend/class-backend.php:363
+msgid "Serif"
+msgstr ""
+
+#: backend/class-backend.php:354 backend/class-backend.php:364
+msgid "Monospace"
+msgstr ""
+
+#: backend/class-backend.php:355
+msgid "Display"
+msgstr ""
+
+#: backend/class-backend.php:356
+msgid "Handwriting"
+msgstr ""
+
+#: backend/class-backend.php:360
+msgid "Websafe Fonts"
+msgstr ""
+
+#: backend/class-backend.php:369
+msgid "px"
+msgstr ""
+
+#: backend/class-backend.php:370
+msgid "rem"
+msgstr ""
+
+#: backend/class-backend.php:371
+msgid "em"
+msgstr ""
+
+#: backend/class-backend.php:374 backend/class-backend.php:379
+#: backend/class-backend.php:391
+msgid "Default"
+msgstr ""
+
+#: backend/class-backend.php:375
+msgid "Italic"
+msgstr ""
+
+#: backend/class-backend.php:376 backend/class-backend.php:383
+msgid "Normal"
+msgstr ""
+
+#: backend/class-backend.php:380
+msgid "Thin"
+msgstr ""
+
+#: backend/class-backend.php:381
+msgid "Extra Light"
+msgstr ""
+
+#: backend/class-backend.php:382
+msgid "Light"
+msgstr ""
+
+#: backend/class-backend.php:384
+msgid "Medium"
+msgstr ""
+
+#: backend/class-backend.php:385
+msgid "Semi Bold"
+msgstr ""
+
+#: backend/class-backend.php:386
+msgid "Bold"
+msgstr ""
+
+#: backend/class-backend.php:387
+msgid "Extra Bold"
+msgstr ""
+
+#: backend/class-backend.php:388
+msgid "Ultra Bold"
+msgstr ""
+
+#: backend/class-backend.php:392
+msgid "Upper Case"
+msgstr ""
+
+#: backend/class-backend.php:393
+msgid "Lower Case"
+msgstr ""
+
+#: backend/class-backend.php:394
+msgid "Capital Case"
+msgstr ""
+
+#: backend/class-backend.php:397
+msgid "Desktop"
+msgstr ""
+
+#: backend/class-backend.php:398
+msgid "Tablet"
+msgstr ""
+
+#: backend/class-backend.php:399
+msgid "Mobile"
+msgstr ""

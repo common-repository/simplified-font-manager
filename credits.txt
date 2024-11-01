@@ -1,0 +1,1 @@
+* Incorporates code from Twenty Seventeen WordPress Theme, (C) Automattic & WordPress.org, [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
